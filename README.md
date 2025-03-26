@@ -1,5 +1,3 @@
----
-
 # 📚 Libft
 
 **Libft** is the very first project at [42 School](https://42.fr), where students create their own C standard library.  
@@ -144,6 +142,4 @@ GitHub: [github.com/pourist](https://github.com/pourist)
 ## 📜 License
 
 This project is part of the 42 Curriculum and is distributed for educational purposes.
-```
 
----
