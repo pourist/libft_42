@@ -40,10 +40,11 @@ gcc main.c -L. -lft
 
 ```
 .
-├── ft_*.c         # Function implementations
-├── libft.h        # Header with function prototypes
-├── Makefile       # Build script
-└── libft.a        # Compiled library
+├── src/ # All .c source files 
+├── include/ # libft.h header file 
+├── Makefile # Build script 
+├── README.md 
+└── libft.a # Compiled static library
 ```
 
 ---
