@@ -1,10 +1,5 @@
 ---
 
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pourist/42_libft/main/assets/libft-banner.png" alt="Libft Banner" />
-</p>
-
 # 📚 Libft
 
 **Libft** is the very first project at [42 School](https://42.fr), where students create their own C standard library.  
