@@ -40,11 +40,11 @@ gcc main.c -L. -lft
 
 ```
 .
-├── src/ # All .c source files 
-├── include/ # libft.h header file 
-├── Makefile # Build script 
-├── README.md 
-└── libft.a # Compiled static library
+├── src/      # All .c source files 
+├── include/  # libft.h header file 
+├── Makefile  # Build script 
+├── libft.a   # Compiled static library
+└── README.md
 ```
 
 ---
