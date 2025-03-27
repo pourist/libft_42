@@ -6,7 +6,7 @@ The library can then be reused in future 42 projects.
 
 ---
 
-## 📦 Overview
+## Overview
 
 - **Language:** C  
 - **Output:** `libft.a` (Static library)  
@@ -15,7 +15,7 @@ The library can then be reused in future 42 projects.
 
 ---
 
-## 🧰 How to Use
+## How to Use
 
 ### 🔨 Compile the Library
 
@@ -24,7 +24,7 @@ make            # Compile mandatory part
 make bonus      # Compile with bonus (linked list) functions
 ```
 
-### 🧪 Include in Your Project
+### Include in Your Project
 
 ```c
 #include "libft.h"
@@ -49,9 +49,9 @@ gcc main.c -L. -lft
 
 ---
 
-## ✅ Implemented Functions
+## Implemented Functions
 
-### 🔤 Character Checks (ctype.h)
+### Character Checks (ctype.h)
 
 | Function        | Description                            |
 |----------------|----------------------------------------|
@@ -63,7 +63,7 @@ gcc main.c -L. -lft
 | `ft_toupper`    | Converts a character to uppercase      |
 | `ft_tolower`    | Converts a character to lowercase      |
 
-### 🧠 Memory Functions (string.h)
+### Memory Functions (string.h)
 
 | Function        | Description                                 |
 |----------------|---------------------------------------------|
@@ -82,7 +82,7 @@ gcc main.c -L. -lft
 | `ft_strnstr`    | Locates a substring in a string             |
 | `ft_strdup`     | Duplicates a string                         |
 
-### 📈 Conversion & Allocation (stdlib.h)
+### Conversion & Allocation (stdlib.h)
 
 | Function        | Description                             |
 |----------------|-----------------------------------------|
